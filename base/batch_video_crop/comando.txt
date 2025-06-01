@@ -1,1 +1,0 @@
-python batch_detect_crop_nvenc.py --input-dir raw_videos --output-dir cropped_videos --min-area 100 --max-area 2000 --min-circ 0.7 --preset p7 --cq 23
